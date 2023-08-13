@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <ParAnguilla>Paranguilla</ParAnguilla>
+      <ParAnguilla_stt>Paranguilla</ParAnguilla_stt>
+      <ParAnguilla_lower>El Paranguilla</ParAnguilla_lower>
+      <ParAnguilla_ltt>
+         <color r="255" g="248" b="178">
+            <b>Paranguilla </b>
+         </color>
+         <br/>
+         Click para adoptar un Paranguilla, el primer placodermo.
+      </ParAnguilla_ltt>
+      <!--gift names-->
+      <ParAnguilla_Gift>Mochila de Paranguilla</ParAnguilla_Gift>
+      <ParAnguilla_Gift_stt>Mochila de Paranguilla</ParAnguilla_Gift_stt>
+      <ParAnguilla_Gift_lower>La Mochila de Paranguilla</ParAnguilla_Gift_lower>
+      <ParAnguilla_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Paranguilla</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Paranguilla.
+      </ParAnguilla_Gift_ltt>
+</entityname>
+<zoopedia_paranguilla>
+ <entry>Paranguilla</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ParAnguilla/ParAnguilla_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Arrecife<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Monte bolca<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Actinopterygii)</i><br/>Orden: Anguilliformes <br/>Familia: Paranguillidae <br/>Genero: <i>Paranguilla</i><br/>Especie: <i>P. Tigrina</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Paranguilla</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Puede llegar a medir 30 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivio en el Eoceno.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Es uno de los anguilliformes mas famosos de Monte Bolca.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Paranguilla necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Paranguilla tigrina es un pez anguilliforme que vivio en el Eoceno, y se ha hallado en el yacimiento de Monte Bolca. De todos los anguiliformes de Monte Bolca, Paranguilla es la mas conocida. Era muy similar a una morena, pero si modo de vida se cree que era como el de un congrio. Hay fosiles donde se pueden apreciar las manchas de este animal, ya que en muchos fosiles de Monte Bolca se pueden apreciar rasgos como este. Es muy similar a otra especie de anguilliforme de Monte Bolca, tambien muy comozido, Dalpiazella brevicauda.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_paranguilla>
+</ZT2Strings>

@@ -1,0 +1,41 @@
+<BFTypedBinder binderType="ParAnguilla_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Anguilliformes>
+                     <Anguillidae>
+                        <ParAnguilla>
+                           <ParAnguilla_Adult>
+                              <ParAnguilla_Adult_M/>
+                           </ParAnguilla_Adult>
+                        </ParAnguilla>
+                     </Anguillidae>
+                  </Anguilliformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="ParAnguilla_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1" f_adoptCount="rand(1,1)"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+               <BFActorComponent actorfile="entities/units/animals/ParAnguilla/ParAnguilla_Adult_F.bfm" scale="0.1"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+   </binder>
+</BFTypedBinder>
